@@ -1,4 +1,3 @@
-"""
 RE-ID
 ====================
 
@@ -40,4 +39,3 @@ Input:
 solution.solution(3)
 Output:
     71113
-"""

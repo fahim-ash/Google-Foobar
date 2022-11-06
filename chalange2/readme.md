@@ -1,6 +1,6 @@
 # Challange 2-1
 
-"""
+
 Elevator Maintenance
 ====================
 
@@ -45,10 +45,10 @@ Solution.solution({"1.1.2", "1.0", "1.3.3", "1.0.12", "1.0.2"})
 Output:
     1.0,1.0.2,1.0.12,1.1.2,1.3.3  
     
-"""
+
 
 # Challange 2.2
-"""
+
 Power Hungry
 
 ============
@@ -91,4 +91,3 @@ Input:
 Solution.solution({-2, -3, 4, -5})
 Output:
     60
-"""
