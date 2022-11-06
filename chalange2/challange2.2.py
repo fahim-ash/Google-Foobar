@@ -1,7 +1,6 @@
 
 # import numpy
 
-
 arr=[-2, -3, 4, -5] # output 30
 def solution(arr):
 
